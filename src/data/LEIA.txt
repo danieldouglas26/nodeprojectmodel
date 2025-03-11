@@ -1,0 +1,1 @@
+Caso queira, só adicionar um json de configuração e configura a rota para ele pelo app.js

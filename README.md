@@ -1,3 +1,4 @@
+# Texto modelo (sujeito a alterações a depender do projeto)
 # Aplicação NodeJS Para Automatização de Criação de Termos de responsabilidades 
 
 Este projeto tem como objetivo criar uma aplicação para a automatização da criação de termos de responsabilidade. Todo o projeto foi pensado para um escalabilidade futura.
